@@ -1,0 +1,1 @@
+G4: longitude <= -121 | G5: longitude > -121 AND longitude <= -112 | G3: longitude > -112 AND longitude <= -101.3 | G1: (longitude > -74.72 AND latitude <= 43.11) OR (longitude > -101.3 AND latitude > 43.11) | default: TRUE

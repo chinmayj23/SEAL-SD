@@ -1,0 +1,1 @@
+G3: internet_use_2000 <= 2.323 AND birth_rate_2010 <= 22.19 | G5: birth_rate_2010 > 31.13 AND trade_in_services_2000 > 15 AND internet_use_2000 <= 2.323 | default: TRUE
